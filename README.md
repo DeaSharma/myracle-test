@@ -50,14 +50,14 @@ Analyze screenshots to generate a comprehensive test case for a specific feature
 
 ### redBus App Screenshots
 
-<img src="screenshots/1.jpg" alt="redBus Screenshot 1" width="400"/>
-<img src="screenshots/2.jpg" alt="redBus Screenshot 2" width="400"/>
-<img src="screenshots/3.jpg" alt="redBus Screenshot 3" width="400"/>
-<img src="screenshots/4.jpg" alt="redBus Screenshot 4" width="400"/>
-<img src="screenshots/5.jpg" alt="redBus Screenshot 5" width="400"/>
-<img src="screenshots/6.jpg" alt="redBus Screenshot 6" width="400"/>
-<img src="screenshots/7.jpg" alt="redBus Screenshot 7" width="400"/>
-<img src="screenshots/8.jpg" alt="redBus Screenshot 8" width="400"/>
+<img src="screenshots/1.jpg" alt="redBus Screenshot 1" width="200"/>
+<img src="screenshots/2.jpg" alt="redBus Screenshot 2" width="200"/>
+<img src="screenshots/3.jpg" alt="redBus Screenshot 3" width="200"/>
+<img src="screenshots/4.jpg" alt="redBus Screenshot 4" width="200"/>
+<img src="screenshots/5.jpg" alt="redBus Screenshot 5" width="200"/>
+<img src="screenshots/6.jpg" alt="redBus Screenshot 6" width="200"/>
+<img src="screenshots/7.jpg" alt="redBus Screenshot 7" width="200"/>
+<img src="screenshots/8.jpg" alt="redBus Screenshot 8" width="200"/>
 
 ### Myracle Web App Screenshots
 
