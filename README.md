@@ -5,6 +5,8 @@ Analyze screenshots to generate a comprehensive test case for a specific feature
 
 ### Prompt Structure
 
+![Prompt Structure](screenshots/1.jpg)
+
 1. **Introduction**
    - Request to analyze screenshots and create a detailed test case, referencing a sample format for guidance.
 
@@ -12,6 +14,8 @@ Analyze screenshots to generate a comprehensive test case for a specific feature
    - Specify that the test case should cover all elements visible in the screenshots, including detailed steps and expected results.
 
 ### Detailed Test Case Elements
+
+![Detailed Test Case Elements](screenshots/2.jpg)
 
 1. **Test Case ID**
    - Assign a unique identifier.
@@ -42,8 +46,23 @@ Analyze screenshots to generate a comprehensive test case for a specific feature
 
 ### Specific Instructions
 
+![Specific Instructions](screenshots/3.jpg)
+
 - Reference exact text, buttons, or elements from the screenshots.
 - Cover flows across multiple screenshots if needed.
 - Mention locations of elements on the page (e.g., header, footer).
 - Consider responsive design for different device views.
 - Verify interactive elements like buttons and forms.
+
+### redBus App Screenshots
+
+![redBus Screenshot 1](screenshots/4.jpg)
+![redBus Screenshot 2](screenshots/5.jpg)
+![redBus Screenshot 3](screenshots/6.jpg)
+![redBus Screenshot 4](screenshots/7.jpg)
+![redBus Screenshot 5](screenshots/8.jpg)
+
+### Myracle Web App Screenshots
+
+![Myracle Web App Screenshot 1](screenshots/myracle-web-app-1%20(1).png)
+![Myracle Web App Screenshot 2](screenshots/myracle-web-app-1%20(2).png)
