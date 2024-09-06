@@ -5,8 +5,6 @@ Analyze screenshots to generate a comprehensive test case for a specific feature
 
 ### Prompt Structure
 
-
-
 1. **Introduction**
    - Request to analyze screenshots and create a detailed test case, referencing a sample format for guidance.
 
@@ -14,8 +12,6 @@ Analyze screenshots to generate a comprehensive test case for a specific feature
    - Specify that the test case should cover all elements visible in the screenshots, including detailed steps and expected results.
 
 ### Detailed Test Case Elements
-
-
 
 1. **Test Case ID**
    - Assign a unique identifier.
@@ -46,8 +42,6 @@ Analyze screenshots to generate a comprehensive test case for a specific feature
 
 ### Specific Instructions
 
-
-
 - Reference exact text, buttons, or elements from the screenshots.
 - Cover flows across multiple screenshots if needed.
 - Mention locations of elements on the page (e.g., header, footer).
@@ -55,14 +49,15 @@ Analyze screenshots to generate a comprehensive test case for a specific feature
 - Verify interactive elements like buttons and forms.
 
 ### redBus App Screenshots
-![redBus Screenshot 1](screenshots/1.jpg)
-![redBus Screenshot 1](screenshots/2.jpg)
-![redBus Screenshot 1](screenshots/3.jpg)
-![redBus Screenshot 1](screenshots/4.jpg)
-![redBus Screenshot 2](screenshots/5.jpg)
-![redBus Screenshot 3](screenshots/6.jpg)
-![redBus Screenshot 4](screenshots/7.jpg)
-![redBus Screenshot 5](screenshots/8.jpg)
+
+<img src="screenshots/1.jpg" alt="redBus Screenshot 1" width="400"/>
+<img src="screenshots/2.jpg" alt="redBus Screenshot 2" width="400"/>
+<img src="screenshots/3.jpg" alt="redBus Screenshot 3" width="400"/>
+<img src="screenshots/4.jpg" alt="redBus Screenshot 4" width="400"/>
+<img src="screenshots/5.jpg" alt="redBus Screenshot 5" width="400"/>
+<img src="screenshots/6.jpg" alt="redBus Screenshot 6" width="400"/>
+<img src="screenshots/7.jpg" alt="redBus Screenshot 7" width="400"/>
+<img src="screenshots/8.jpg" alt="redBus Screenshot 8" width="400"/>
 
 ### Myracle Web App Screenshots
 
