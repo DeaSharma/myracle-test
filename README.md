@@ -5,7 +5,7 @@ Analyze screenshots to generate a comprehensive test case for a specific feature
 
 ### Prompt Structure
 
-![Prompt Structure](screenshots/1.jpg)
+
 
 1. **Introduction**
    - Request to analyze screenshots and create a detailed test case, referencing a sample format for guidance.
@@ -15,7 +15,7 @@ Analyze screenshots to generate a comprehensive test case for a specific feature
 
 ### Detailed Test Case Elements
 
-![Detailed Test Case Elements](screenshots/2.jpg)
+
 
 1. **Test Case ID**
    - Assign a unique identifier.
@@ -46,7 +46,7 @@ Analyze screenshots to generate a comprehensive test case for a specific feature
 
 ### Specific Instructions
 
-![Specific Instructions](screenshots/3.jpg)
+
 
 - Reference exact text, buttons, or elements from the screenshots.
 - Cover flows across multiple screenshots if needed.
@@ -55,7 +55,9 @@ Analyze screenshots to generate a comprehensive test case for a specific feature
 - Verify interactive elements like buttons and forms.
 
 ### redBus App Screenshots
-
+![redBus Screenshot 1](screenshots/1.jpg)
+![redBus Screenshot 1](screenshots/2.jpg)
+![redBus Screenshot 1](screenshots/3.jpg)
 ![redBus Screenshot 1](screenshots/4.jpg)
 ![redBus Screenshot 2](screenshots/5.jpg)
 ![redBus Screenshot 3](screenshots/6.jpg)
